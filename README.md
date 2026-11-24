@@ -38,6 +38,6 @@ Agentes de IA e automação de processos · Desenvolvimento web · Análise de d
 
 ## Contato
 
-- WhatsApp: [](https://wa.me/5571992932791?text=Oi%2C%20quero%20um%20diagn%C3%B3stico%20gratuito%20de%20presen%C3%A7a%20digital)
+- WhatsApp:[meu link de whatsapp](https://wa.me/5571992932791?text=Oi%2C%20quero%20um%20diagn%C3%B3stico%20gratuito%20de%20presen%C3%A7a%20digital)
 - Instagram: [@yuricatundadev](https://www.instagram.com/yuricatundadev)
 - LinkedIn: [Yuri Catunda](https://www.linkedin.com/in/yuri-catunda-93652b231/)
